@@ -24,7 +24,7 @@ public class Collection {
             temp[j] = books[j];
         }
         for (int j = i + 1; j < count; j++) {
-            temp[j] = books[j];
+            temp[j - 1] = books[j];
         }
         books = temp;
         count--;

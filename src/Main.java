@@ -11,7 +11,7 @@ public class Main {
                 "2 - add new book\n" +
                 //"2 - add multiple books to collection\n" +
                 "3 - remove book\n" +
-                "4 - sort books by year\n" +
+                "4 - sort books by number of pages\n" +
                 "5 - search books by author\n" +
                 "6 - search books by number of pages\n" +
                 "7 - print detailed book list\n" +
